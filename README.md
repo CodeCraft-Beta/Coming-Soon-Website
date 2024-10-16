@@ -9,7 +9,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Coming-Soon-Website/
 
-**Website Video** - Coming Soon
+**Website Video** - https://youtu.be/lu0fs-DNgrI
 
 # CodeCraft-Beta
 
