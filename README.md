@@ -13,6 +13,8 @@ Watch more Website Template in my Website.
 
 **Website Video** - https://youtu.be/vK4q0EjLydY
 
+**Website View** - https://designcraft.odoo.com/coming-soon-website
+
 # CodeCraft-Beta
 
 This Github Account is Made Website Templates, Everyone Preview any Website Template and also Download the Templates.
